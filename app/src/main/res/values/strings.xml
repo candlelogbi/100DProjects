@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="title">    QUIZ 1- MATH  </string>
+    <string name="Q1">Q1:What are the complications for number 2 ?</string>
+    <string name="Q2">Q2:3*(6+2)-3</string>
+    <string name="Q3">Q3:2>=2.5?</string>
+    <string name="Q4">Q4:3*5+2=21 </string>
+    <string name="four">4</string>
+    <string name="six">6</string>
+    <string name="three">3</string>
+    <string name="one">1</string>
+    <string name="Ryes">Yes</string>
+    <string name="Rno">No</string>
+    <string name="edit_message">Write your answer..</string>
+    <string name="Submit">Submit</string>
+    <string name="Reset">Reset</string>
+</resources>
